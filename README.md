@@ -114,4 +114,4 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
-<img src="images/teatro_stagnani.jpg" alt="Teatro Stagnani" width="600">
+<img src="./images/teatro_stagnani.jpg" alt="Teatro Stagnani" width="600">
