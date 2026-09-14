@@ -10,9 +10,12 @@ layout: default
 [🏠 Home](index.html) | [🏛️ Topic](topic.html) | [🛠️ Methodology](methodology.html) | [📊 SPARQL & Results](sparql.html) | [🔍 Identifying Gaps](gaps.html) | 💬 LLM Prompts | [🔗 RDF Triples](triples.html) | [⚠️ Challenges](challenges.html) | [✅ Conclusion](conclusion.html)
 
 claude
+<img width="1220" height="716" alt="image" src="https://github.com/user-attachments/assets/16e3d701-ff72-4da3-8fc8-ee278c6e41e3" />
+
  
 Grok
- 
+ <img width="1289" height="677" alt="image" src="https://github.com/user-attachments/assets/362ae15e-d068-4a58-a98b-ac83983de768" />
+
 Claude
  
 grok
