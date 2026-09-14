@@ -13,8 +13,6 @@ title: Topic
 # Topic
 
 
-# Topic
-
 ## Why Teatro Stignani?
 
 The Teatro comunale Ebe Stignani was selected as the topic of this project because it is one of the most famous cultural landmarks in Imola. Located in the historic city centre, the theater has strong artistic, civic, and symbolic value. It is not only a building, but also an important part of Imola's urban identity.
