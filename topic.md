@@ -1,10 +1,17 @@
 layout: default
 title: Topic
+# Teatro Ebe Stignani
+
+## Enriching Cultural Heritage Knowledge with ArCo and Large Language Models
+
+[View on GitHub](https://github.com/KatyaMugai/Teatro-comunale-Ebi-Stignani)
+
+[🏠 Home](index.html) | 🏛️ Topic | [🛠️ Methodology](methodology.html) | [📊 SPARQL & Results](sparql.html) | [🔍 Identifying Gaps](gaps.html) | [💬 LLM Prompts](prompts.html) | [🔗 RDF Triples](triples.html) | [⚠️ Challenges](challenges.html) | [✅ Conclusion](conclusion.html)
+
 ---
 
-{% include nav.html %}
+# Topic
 
----
 
 # Topic
 
