@@ -17,8 +17,10 @@ Grok
  <img width="1289" height="677" alt="image" src="https://github.com/user-attachments/assets/362ae15e-d068-4a58-a98b-ac83983de768" />
 
 Claude
- 
+ <img width="1217" height="661" alt="image" src="https://github.com/user-attachments/assets/3f6a2076-d7ef-4caf-9bf1-5a145c368a75" />
+
 grok
+<img width="1474" height="744" alt="image" src="https://github.com/user-attachments/assets/b7b21a3b-f55a-4a24-ba9e-140c92e4ff40" />
 
  
 
@@ -27,10 +29,12 @@ Identify whether these are names of theaters or names of people. For example:
 Teatro Stignani is a theater 
 Ebe Stignani is a name
 Claude answers
+<img width="1358" height="398" alt="image" src="https://github.com/user-attachments/assets/3e731dec-9403-4887-a4a8-d8cfb42825fa" />
 
  
 Grok answers
- 
+ <img width="1327" height="492" alt="image" src="https://github.com/user-attachments/assets/eed42adc-5078-45db-b36e-ee65189c3ce0" />
+
 Chain-of-thought Prompt: Cultural Description of the Monument
 Analyze the Teatro Stignani in Imola by following these steps: 
 1. Describe accurately what can be observed in the building: its location, architectural style, façade, interior layout (auditorium, boxes, stage), materials, decorative elements, and urban setting.
@@ -40,9 +44,11 @@ Analyze the Teatro Stignani in Imola by following these steps:
  5. Summarize the main cultural or art-historical interpretations of the theater: for example, its role as a symbol of civic culture, its connection to Italian provincial theater architecture, and its relationship to the representation of local identity and the performing arts tradition. 
 6. Compare the Teatro Stignani briefly with other Italian provincial theaters named after opera singers or performers, noting similarities and differences in function, architecture, or civic role.
 Claude answers
-  
+  <img width="1077" height="827" alt="image" src="https://github.com/user-attachments/assets/0fdce6a1-1b56-4640-8108-f22fcc552365" />
+
 Grok answers
- 
+ <img width="1538" height="1130" alt="image" src="https://github.com/user-attachments/assets/619fdd59-936c-43de-91d1-5f20c4212d5d" />
+
 
 Considerations
 The chain-of-thought prompt produced the most useful results for cultural enrichment.
