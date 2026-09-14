@@ -1,7 +1,7 @@
 <img width="1538" height="1130" alt="image" src="https://github.com/user-attachments/assets/366ca32c-be61-4ef9-be2f-4a2827250a14" />layout: default
 ---
 
-# Fontana del Nettuno
+# Teatro comunale Ebe Stignani
 
 ## Enriching Cultural Heritage Knowledge with ArCo and Large Language Models
 
