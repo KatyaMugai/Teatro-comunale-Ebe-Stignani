@@ -17,6 +17,7 @@ title: Home
 ---
 
 # Teatro comunale Ebe Stignani
+![Teatro Stignani](images/teatro_stagnani.jpg)
 
 **Enriching Cultural Heritage Knowledge with ArCo and Large Language Models**
 
