@@ -115,10 +115,13 @@ layout: default
 
 </body>
 </html>
-## Описание
+## About
 
-Здесь напишите текст о театре.
+Teatro comunale Ebe Stignani is a historic theatre in Imola, Italy, converted
+from a deconsecrated Franciscan church in 1812 and dedicated to mezzo-soprano
+Ebe Stignani in 1977. It remains one of the city's most important cultural
+landmarks.
 
-## Автор
+## Author
 
 Ekaterina Mugaiskikh
