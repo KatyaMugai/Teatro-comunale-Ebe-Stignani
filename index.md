@@ -44,7 +44,7 @@ This project explores and enriches the representation of the **Teatro comunale E
 
 ---
 
-*Project by KatyaMugai · September 2026*
+*Project by Ekaterina Mugaiskikh · September 2026*
 
 
-Ekaterina Mugaiskikh
+
