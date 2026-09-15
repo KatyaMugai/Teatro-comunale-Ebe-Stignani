@@ -4,15 +4,15 @@ title: Home
 ---
 
 [View on GitHub](https://github.com/KatyaMugai/Teatro-comunale-Ebe-Stignani) | 
-[🏠 Home](index.md) | 
-[🏛️ Topic](topic.md) | 
-[🛠️ Methodology](methodology.md) | 
-[📊 SPARQL & Results](sparql.md) | 
-[🔍 Identifying Gaps](gaps.md) | 
-[💬 LLM Prompts](prompts.md) | 
-[🔗 RDF Triples](triples.md) | 
-[⚠️ Challenges](challenges.md) | 
-[✅ Conclusion](conclusion.md)
+[Home](index.md) | 
+[Topic](topic.md) | 
+[Methodology](methodology.md) | 
+[SPARQL & Results](sparql.md) | 
+[Identifying Gaps](gaps.md) | 
+[LLM Prompts](prompts.md) | 
+[RDF Triples](triples.md) | 
+[Challenges](challenges.md) | 
+[Conclusion](conclusion.md)
 
 ---
 
@@ -45,13 +45,6 @@ This project explores and enriches the representation of the **Teatro comunale E
 ---
 
 *Project by KatyaMugai · September 2026*
-## About
 
-Teatro comunale Ebe Stignani is a historic theatre in Imola, Italy, converted
-from a deconsecrated Franciscan church in 1812 and dedicated to mezzo-soprano
-Ebe Stignani in 1977. It remains one of the city's most important cultural
-landmarks.
-
-## Author
 
 Ekaterina Mugaiskikh
