@@ -3,7 +3,7 @@ layout: default
 title: LLM Prompts
 ---
 
-{% include nav.html %}
+
 
 ---
 
